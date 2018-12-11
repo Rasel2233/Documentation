@@ -49,7 +49,7 @@ GCC/UGC/UCC Compiler
 		--Contributions:--  
 	--------------------------------
 This project is done by me:
-Rasel Ahmed Rohan
+Rasel Ahamed 
 Varsity ID: 171-35-1958
 Department of Software Engineering
 Daffodil International University
